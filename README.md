@@ -48,14 +48,14 @@ console-background= #1E1E1E
 ```
 
 ## Preview
-**Shell Preview**
+1.**Shell Preview**
 
 ![Theme Preview1](https://i.imgur.com/tPnW4s2.png)
 
-**Setting Preview**
+2.**Setting Preview**
 
 ![Theme Preview2](https://i.imgur.com/OU0vyU6.png)
 
-**IDLE Editor Preview**
+3.**IDLE Editor Preview**
 
 ![Theme Preview3](https://i.imgur.com/32vqCwM.png)
