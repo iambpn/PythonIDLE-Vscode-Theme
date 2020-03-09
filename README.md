@@ -1,5 +1,5 @@
 # PythonIDLE-Vscode-Theme
-Python IDLE Vscode Theme
+Default Vscode Theme for Python IDLE 
 
 ### Vscode Default theme for Python IDLE
 
@@ -46,3 +46,16 @@ stderr-background= #1E1E1E
 console-foreground= #75715E
 console-background= #1E1E1E
 ```
+
+## Preview
+**Shell Preview**
+
+![Theme Preview1](https://i.imgur.com/tPnW4s2.png)
+
+**Setting Preview**
+
+![Theme Preview2](https://i.imgur.com/OU0vyU6.png)
+
+**IDLE Editor Preview**
+
+![Theme Preview3](https://i.imgur.com/32vqCwM.png)
